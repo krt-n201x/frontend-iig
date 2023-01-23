@@ -1,7 +1,5 @@
 <template>
-<div>
   <router-view />
-</div>
 </template>
 
 <script>
@@ -15,5 +13,6 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 #app {
   font-family: 'Quicksand', sans-serif;
+  background-color: black;
 }
 </style>
